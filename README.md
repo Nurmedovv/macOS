@@ -32,3 +32,4 @@ MIT License
 
 
 Исходный код на GitHub: (https://github.com/Nurmedovv/macOS)
+! Логотип Git (https://git-scm.com/images/logo@2x.png)
