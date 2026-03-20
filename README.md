@@ -24,3 +24,8 @@ gcc src/main.c -o app
 
 ## License 
 MIT License 
+
+## Contact 
+
+Написать автору: azatnurmedovv2554@gmail.com
+
