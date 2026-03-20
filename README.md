@@ -29,3 +29,6 @@ MIT License
 
 Написать автору: azatnurmedovv2554@gmail.com
 
+
+
+Исходный код на GitHub: (https://github.com/Nurmedovv/macOS)
