@@ -1,0 +1,97 @@
+  173  git add README.md 
+  174  git commit -m "add: repository link"
+  175  git checkout main 
+  176  git merge feature/repo-link 
+  177  git checkout main 
+  178  git merge feature/relo-link
+  179  git branch -d feature/repo-link 
+  180  cat README.md 
+  181  git checkout  main 
+  182  git checkout -b feature/image 
+  183  sed -i  '/## Description /a\ / 
+  184  ! Логотип Git (https://git-scm.com/images/logo@2x.png)' README.md
+  185  cat >> README.md << 'EOF'
+  186  ! Логотип Git (https://git-scm.com/images/logo@2x.png)
+  187  EOF
+  188  git add README.md
+  189  git commit -m "add: git logo image"
+  190  git checkout main 
+  191  git merge feature/image 
+  192  git branch -d feature/image
+  193  tail README.md
+  194  git checkout main 
+  195  git checkout -b feature/versions-table
+  196  cat >> README.md << 'EOF'
+  197  ### VERSIONS SUPPORT 
+  198  | Версия 
+  199  | 1.0.x.x - поддерживается полностью | 
+  200  | 0.9.x   - ограниченная поддержка   |
+  201  | 0.8.x.x - не поддерживается        |
+  202  EOF
+  203  git add README.md
+  204  git commit -m "add: versions support table"
+  205  git branch -d feature/versions-table
+  206  cat README.md
+  207  git checkout main 
+  208  cd /d/macos
+  209  pwd
+  210  git branch -a
+  211  git add README.md 
+  212  git commit -m "add: versions support table "
+  213  git checkout main
+  214  git checkout -b feature/todo-list
+  215  cat >> README.md << 'EOF'
+
+## TODO 
+
+-Изучить основы работы с Git
+-А дальше уже секретная информация
+
+P.S лень писать
+EOF
+
+  216  git add README.md
+  217  git commit -m "add: todo list"
+  218  git checkout main 
+  219  git merge feature/todo-list
+  220  git branch -d feature/todo-list
+  221  cat README.md
+  222  git log --oneline -13
+  223  git checkout main
+  224  git checkout -b feature/text-formatting
+  225  cat >> README.md << 'EOF'
+** ВАЖНО: ** Перед запуском убедитесь, что установлен *компилятор GCC*. 
+EOF
+
+  226  git add README.md
+  227  git commit -m "add: text formatting examples"
+  228  git checkout main 
+  229  git merge feature/text-formatting
+  230  git branch -d feature/text-formatting
+  231  cat README.md
+  232  git checkout main
+  233  git checkout -m feature/quote
+  234  git checkout main
+  235  git checkout -b feature/quote
+  236  cat >> README.md << 'EOF'
+
+Этот проект - отличный старт для изучения системы контроля версий Git! (Надеюсь...)
+
+EOF
+
+  237  git add README.md 
+  238  git commit -m "add: project quote"
+  239  git checkout main 
+  240  git merge feature/quote
+  241  git branch -d feature/quote
+  242  cat README.md
+  243  git checkout main 
+  244  git checkout -b feature/badge
+  245  git checkout main 
+  246  git branch -d feature/badge
+  247  cat README.md
+  248  git checkout main 
+  249  git checkout -b feature/gitlog 
+  250  git log --oneline --graph > repo-history.txt
+  251  git reflog > branches-history.txt
+  252  history 80 > command-history.txt

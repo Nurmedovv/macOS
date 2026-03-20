@@ -1,0 +1,88 @@
+2436875 HEAD@{0}: checkout: moving from main to feature/gitlog
+2436875 HEAD@{1}: checkout: moving from main to main
+2436875 HEAD@{2}: checkout: moving from feature/badge to main
+2436875 HEAD@{3}: checkout: moving from main to feature/badge
+2436875 HEAD@{4}: checkout: moving from main to main
+2436875 HEAD@{5}: merge feature/quote: Fast-forward
+1c0ee1a HEAD@{6}: checkout: moving from feature/quote to main
+2436875 HEAD@{7}: commit: add: project quote
+1c0ee1a HEAD@{8}: checkout: moving from main to feature/quote
+1c0ee1a HEAD@{9}: checkout: moving from main to main
+1c0ee1a HEAD@{10}: checkout: moving from main to main
+1c0ee1a HEAD@{11}: merge feature/text-formatting: Fast-forward
+115bad6 HEAD@{12}: checkout: moving from feature/text-formatting to main
+1c0ee1a HEAD@{13}: commit: add: text formatting examples
+115bad6 HEAD@{14}: checkout: moving from main to feature/text-formatting
+115bad6 HEAD@{15}: checkout: moving from main to main
+115bad6 HEAD@{16}: merge feature/todo-list: Fast-forward
+e7a7319 HEAD@{17}: checkout: moving from feature/todo-list to main
+115bad6 HEAD@{18}: commit: add: todo list
+e7a7319 HEAD@{19}: checkout: moving from main to feature/todo-list
+e7a7319 HEAD@{20}: checkout: moving from feature/versions-table to main
+693936a HEAD@{21}: commit: add: versions support table
+e7a7319 HEAD@{22}: checkout: moving from main to feature/versions-table
+e7a7319 HEAD@{23}: checkout: moving from main to main
+e7a7319 HEAD@{24}: merge feature/image: Fast-forward
+646249b HEAD@{25}: checkout: moving from feature/image to main
+e7a7319 HEAD@{26}: commit: add: git logo image
+646249b HEAD@{27}: checkout: moving from main to feature/image
+646249b HEAD@{28}: checkout: moving from main to main
+646249b HEAD@{29}: checkout: moving from main to main
+646249b HEAD@{30}: merge feature/repo-link: Fast-forward
+51c4498 HEAD@{31}: checkout: moving from feature/repo-link to main
+646249b HEAD@{32}: commit: add: repository link
+51c4498 HEAD@{33}: checkout: moving from main to feature/repo-link
+51c4498 HEAD@{34}: checkout: moving from main to main
+51c4498 HEAD@{35}: merge feature/contact: Fast-forward
+abb04ce HEAD@{36}: checkout: moving from feature/contact to main
+51c4498 HEAD@{37}: commit: add: contact information with link
+abb04ce HEAD@{38}: checkout: moving from main to feature/contact
+abb04ce HEAD@{39}: checkout: moving from main to main
+abb04ce HEAD@{40}: merge feature/license: Fast-forward
+b66f016 HEAD@{41}: checkout: moving from main to main
+b66f016 HEAD@{42}: checkout: moving from feature/license to main
+abb04ce HEAD@{43}: commit: add: license information
+b66f016 HEAD@{44}: checkout: moving from main to feature/license
+b66f016 HEAD@{45}: checkout: moving from feature/license to main
+b66f016 HEAD@{46}: checkout: moving from main to feature/license
+b66f016 HEAD@{47}: checkout: moving from main to main
+b66f016 HEAD@{48}: merge feature/contributing: Fast-forward
+0c7b17f HEAD@{49}: checkout: moving from feature/contributing to main
+b66f016 HEAD@{50}: commit: add: contributing guidelines
+0c7b17f HEAD@{51}: checkout: moving from main to feature/contributing
+0c7b17f HEAD@{52}: checkout: moving from main to main
+0c7b17f HEAD@{53}: merge feature/usage: Fast-forward
+76a1779 HEAD@{54}: checkout: moving from feature/usage to main
+0c7b17f HEAD@{55}: commit: add: usage example
+76a1779 HEAD@{56}: checkout: moving from main to feature/usage
+76a1779 HEAD@{57}: checkout: moving from main to main
+76a1779 HEAD@{58}: merge feature/installation: Fast-forward
+bb60f50 HEAD@{59}: checkout: moving from feature/installation to main
+76a1779 HEAD@{60}: commit: add: installation instructions
+bb60f50 HEAD@{61}: checkout: moving from main to feature/installation
+bb60f50 HEAD@{62}: checkout: moving from feature/description to main
+bb60f50 HEAD@{63}: checkout: moving from main to feature/description
+bb60f50 HEAD@{64}: merge feature/description: Fast-forward
+655e3d8 HEAD@{65}: checkout: moving from feature/description to main
+bb60f50 HEAD@{66}: commit: add: project description
+655e3d8 HEAD@{67}: checkout: moving from main to feature/description
+655e3d8 HEAD@{68}: checkout: moving from main to main
+655e3d8 HEAD@{69}: merge feature/project: Fast-forward
+3c55ecc HEAD@{70}: checkout: moving from feature/project to main
+655e3d8 HEAD@{71}: commit: add: project description
+3c55ecc HEAD@{72}: checkout: moving from main to feature/project
+3c55ecc HEAD@{73}: checkout: moving from main to main
+3c55ecc HEAD@{74}: reset: moving to HEAD~1
+2c953b7 HEAD@{75}: checkout: moving from main to main
+2c953b7 HEAD@{76}: commit: add: project description
+3c55ecc HEAD@{77}: checkout: moving from main to main
+3c55ecc HEAD@{78}: merge feature/project-title: Fast-forward
+b9e8ce8 HEAD@{79}: checkout: moving from feature/project-title to main
+3c55ecc HEAD@{80}: commit: add: project title
+b9e8ce8 HEAD@{81}: checkout: moving from main to feature/project-title
+b9e8ce8 HEAD@{82}: checkout: moving from main to main
+b9e8ce8 HEAD@{83}: reset: moving to HEAD~1
+81d5619 HEAD@{84}: checkout: moving from main to main
+81d5619 HEAD@{85}: commit: add: project title
+b9e8ce8 HEAD@{86}: checkout: moving from main to main
+b9e8ce8 HEAD@{87}: clone: from https://github.com/Nurmedovv/macOS

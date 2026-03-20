@@ -1,0 +1,14 @@
+* 2436875 add: project quote
+* 1c0ee1a add: text formatting examples
+* 115bad6 add: todo list
+* e7a7319 add: git logo image
+* 646249b add: repository link
+* 51c4498 add: contact information with link
+* abb04ce add: license information
+* b66f016 add: contributing guidelines
+* 0c7b17f add: usage example
+* 76a1779 add: installation instructions
+* bb60f50 add: project description
+* 655e3d8 add: project description
+* 3c55ecc add: project title
+* b9e8ce8 Initial commit
